@@ -29,9 +29,9 @@ return (
         <ShowHome/>
         <ShowAbout/>
         <ShowService/>
-        <ShowPortfolio/>
-        <ShowTestimonial/>
-        <ShowBlog/>
+        // <ShowPortfolio/>
+        // <ShowTestimonial/>
+        // <ShowBlog/>
         <ShowContact/>
 
    </main>
